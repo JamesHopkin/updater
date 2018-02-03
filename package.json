@@ -1,0 +1,18 @@
+{
+  "name": "updater",
+  "version": "1.0.0",
+  "description": "Library for updating deployed Robomerge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robomerge"
+  ],
+  "author": "james.hopkin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^9.4.0",
+    "types": "^0.1.1"
+  }
+}
